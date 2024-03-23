@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "bcf06bbbc8d8341d",
+    "type": "split",
+    "children": [
+      {
+        "id": "de60ea592c293ecd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "803b32b3e4768c1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/Pengenalan HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "397aacd2d5c678fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33fcc06782774c26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9268e2c754bad00e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dc0a4c6a77bc3a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98067b5603bce5e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc75b60b42df9204",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "018e28ebe1ba0e7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "736dfcb47b8c5da0",
+    "type": "split",
+    "children": [
+      {
+        "id": "39eb77285f719371",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18ac5044faff184f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93c3ad04ef37ef18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f86321325f6fa3c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3d985a7e58b60655",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "33fcc06782774c26",
+  "lastOpenFiles": [
+    "HTML/Obsidian Vault/HTML/aset HTML/vidio.jpeg",
+    "HTML/Obsidian Vault/HTML/aset HTML/paskibra207.jpeg",
+    "HTML/Obsidian Vault/HTML/aset HTML/foto9.jpeg",
+    "HTML/Obsidian Vault/HTML/aset HTML/foto8.jpeg",
+    "HTML/Obsidian Vault/HTML/aset HTML/foto7.jpeg",
+    "HTML/Obsidian Vault/HTML/aset HTML/foto6.jpeg",
+    "HTML/Obsidian Vault/HTML/aset HTML/foto5.jpeg",
+    "HTML/Obsidian Vault/HTML/aset HTML/foto28.jpeg",
+    "HTML/Obsidian Vault/HTML/aset HTML/foto15.jpeg",
+    "HTML/Obsidian Vault/HTML/aset HTML/foto14.jpeg",
+    "HTML/Obsidian Vault/HTML/aset HTML/foto13.jpeg",
+    "HTML/Obsidian Vault/BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md",
+    "HTML/Obsidian Vault/HTML/PERTEMUAN 1.md",
+    "HTML/Obsidian Vault/HTML/Pengenalan Web.md",
+    "HTML/Obsidian Vault/HTML/Pengenalan HTML.md",
+    "HTML/Obsidian Vault/HTML/DESKRIPSI.md",
+    "HTML/Obsidian Vault/HTML/aset HTML",
+    "HTML/Obsidian Vault/HTML/ANALISIS PROYEK UJIAN.md",
+    "HTML/Obsidian Vault/CSS/Pengenalan CSS.md",
+    "HTML/Obsidian Vault/CSS/aset CSS",
+    "HTML/Obsidian Vault/BASIS DATA/SELECT LANJUTAN.md",
+    "HTML/Obsidian Vault/BASIS DATA/percobaan.md",
+    "HTML/Obsidian Vault/BASIS DATA/Pengenalan BasisData.md",
+    "HTML/Obsidian Vault/BASIS DATA/aset BASIS DATA",
+    "HTML/Obsidian Vault/HTML",
+    "HTML/Obsidian Vault/CSS",
+    "HTML/Obsidian Vault/BASIS DATA",
+    "HTML/Obsidian Vault",
+    "BASIS DATA/Pengenalan BasisData.md",
+    "BASIS DATA/SELECT LANJUTAN.md",
+    "BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md",
+    "BASIS DATA/percobaan.md",
+    "HTML/PERTEMUAN 1.md",
+    "BASIS DATA/contoh.md",
+    "HTML/Pengenalan Web.md",
+    "HTML/Pengenalan HTML.md",
+    "HTML/DESKRIPSI.md",
+    "HTML/ANALISIS PROYEK UJIAN.md",
+    "CSS/Pengenalan CSS.md",
+    "CSS",
+    "BASIS DATA/aset BASIS DATA/aset8.jpg.crdownload",
+    "BASIS DATA/aset BASIS DATA/aset6.jpg.crdownload"
+  ]
+}
