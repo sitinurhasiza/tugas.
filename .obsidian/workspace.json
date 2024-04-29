@@ -1,26 +1,38 @@
 {
   "main": {
-    "id": "bcf06bbbc8d8341d",
+    "id": "35e06d0ed0f3e507",
     "type": "split",
     "children": [
       {
-        "id": "de60ea592c293ecd",
+        "id": "c55cebba15855d24",
         "type": "tabs",
         "children": [
           {
-            "id": "803b32b3e4768c1f",
+            "id": "4132000377c65f46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Pengenalan HTML.md",
+                "file": "CSS/Pengenalan CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "397aacd2d5c678fa",
+            "id": "7f650e0c2d55e2e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FILTER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b7bda3cc4b52ba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,33 +44,141 @@
             }
           },
           {
-            "id": "33fcc06782774c26",
+            "id": "73507f706b0cf474",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md",
+                "file": "BASIS DATA/SELECT LANJUTAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d9baa3d8e2cfba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Pengenalan CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f261d71e366856f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EKSPLORASI FILTER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cd17215549a35c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EKSPLORASI FILTER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34d54a07f1ed165b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Pengenalan CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81b2de963baf7f90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EKSPLORASI FILTER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eda45d484fdb5513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Pengenalan CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be238ddd66d4649b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RESPONSIVE/CSS Responsive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b9552e36b8ef976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Pengenalan CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c45710e56167ece4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BASIS DATA/ALTER.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9268e2c754bad00e",
+    "id": "6bcb08786fd3c599",
     "type": "split",
     "children": [
       {
-        "id": "5dc0a4c6a77bc3a1",
+        "id": "a9ffecd56cf1b244",
         "type": "tabs",
         "children": [
           {
-            "id": "98067b5603bce5e1",
+            "id": "7fe4646d4d9c6ddd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +188,7 @@
             }
           },
           {
-            "id": "dc75b60b42df9204",
+            "id": "d9c53dfd150fd46c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +203,7 @@
             }
           },
           {
-            "id": "018e28ebe1ba0e7a",
+            "id": "cb64e7749fa9e041",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +214,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "736dfcb47b8c5da0",
+    "id": "51ca988776189a9a",
     "type": "split",
     "children": [
       {
-        "id": "39eb77285f719371",
+        "id": "f1104e10ce36db3f",
         "type": "tabs",
         "children": [
           {
-            "id": "18ac5044faff184f",
+            "id": "b8fe0e060b8afb12",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md",
+                "file": "BASIS DATA/ALTER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +242,19 @@
             }
           },
           {
-            "id": "93c3ad04ef37ef18",
+            "id": "fbe9730bc197fbb0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md",
+                "file": "BASIS DATA/ALTER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f86321325f6fa3c8",
+            "id": "d7ef467f80ef4c89",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +265,12 @@
             }
           },
           {
-            "id": "3d985a7e58b60655",
+            "id": "2dd05ec24d944dee",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md"
+                "file": "BASIS DATA/ALTER.md"
               }
             }
           }
@@ -158,7 +278,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,49 +291,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33fcc06782774c26",
+  "active": "7fe4646d4d9c6ddd",
   "lastOpenFiles": [
-    "HTML/Obsidian Vault/HTML/aset HTML/vidio.jpeg",
-    "HTML/Obsidian Vault/HTML/aset HTML/paskibra207.jpeg",
-    "HTML/Obsidian Vault/HTML/aset HTML/foto9.jpeg",
-    "HTML/Obsidian Vault/HTML/aset HTML/foto8.jpeg",
-    "HTML/Obsidian Vault/HTML/aset HTML/foto7.jpeg",
-    "HTML/Obsidian Vault/HTML/aset HTML/foto6.jpeg",
-    "HTML/Obsidian Vault/HTML/aset HTML/foto5.jpeg",
-    "HTML/Obsidian Vault/HTML/aset HTML/foto28.jpeg",
-    "HTML/Obsidian Vault/HTML/aset HTML/foto15.jpeg",
-    "HTML/Obsidian Vault/HTML/aset HTML/foto14.jpeg",
-    "HTML/Obsidian Vault/HTML/aset HTML/foto13.jpeg",
-    "HTML/Obsidian Vault/BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md",
-    "HTML/Obsidian Vault/HTML/PERTEMUAN 1.md",
-    "HTML/Obsidian Vault/HTML/Pengenalan Web.md",
-    "HTML/Obsidian Vault/HTML/Pengenalan HTML.md",
-    "HTML/Obsidian Vault/HTML/DESKRIPSI.md",
-    "HTML/Obsidian Vault/HTML/aset HTML",
-    "HTML/Obsidian Vault/HTML/ANALISIS PROYEK UJIAN.md",
-    "HTML/Obsidian Vault/CSS/Pengenalan CSS.md",
-    "HTML/Obsidian Vault/CSS/aset CSS",
-    "HTML/Obsidian Vault/BASIS DATA/SELECT LANJUTAN.md",
-    "HTML/Obsidian Vault/BASIS DATA/percobaan.md",
-    "HTML/Obsidian Vault/BASIS DATA/Pengenalan BasisData.md",
-    "HTML/Obsidian Vault/BASIS DATA/aset BASIS DATA",
-    "HTML/Obsidian Vault/HTML",
-    "HTML/Obsidian Vault/CSS",
-    "HTML/Obsidian Vault/BASIS DATA",
-    "HTML/Obsidian Vault",
-    "BASIS DATA/Pengenalan BasisData.md",
-    "BASIS DATA/SELECT LANJUTAN.md",
-    "BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md",
-    "BASIS DATA/percobaan.md",
-    "HTML/PERTEMUAN 1.md",
-    "BASIS DATA/contoh.md",
-    "HTML/Pengenalan Web.md",
+    "index.html",
+    "ANALISIS PROYEK UJIAN.md",
     "HTML/Pengenalan HTML.md",
+    "HTML/aset HTML/semantic vs non semantic.jpg",
+    "HTML/aset HTML/Semantic HTML.md",
+    "HTML/aset HTML/css.jpeg",
+    "HTML/aset HTML/Pasted image 20240403134332.png",
+    "HTML/aset HTML/Pasted image 20240403134312.png",
+    "HTML/aset HTML/best-praktis-h1.png",
+    "HTML/aset HTML/best-praktis-layout.png",
+    "HTML/aset HTML/p-komentar.png",
+    "HTML/aset HTML/code-semantic.png",
     "HTML/DESKRIPSI.md",
     "HTML/ANALISIS PROYEK UJIAN.md",
+    "HTML/Pengenalan Web.md",
+    "HTML/PERTEMUAN 1.md",
+    "FILTER.md",
+    "SESTEMATIC",
     "CSS/Pengenalan CSS.md",
-    "CSS",
-    "BASIS DATA/aset BASIS DATA/aset8.jpg.crdownload",
-    "BASIS DATA/aset BASIS DATA/aset6.jpg.crdownload"
+    "CSS/aset CSS/Cuplikan layar 2024-04-30 000144.png",
+    "CSS/Cuplikan layar 2024-04-30 000144.png",
+    "Pengenalan CSS.md",
+    "CSS/Boostrap.md",
+    "GITHUB & GIT/GITHUB & GIT.md",
+    "RESPONSIVE/CSS Responsive.md",
+    "GITHUB & GIT/aset github",
+    "Untitled/GITHUB & GIT.md",
+    "GITHUB & GIT",
+    "SELECT LANJUTAN 1.md",
+    "BASIS DATA/SELECT LANJUTAN.md",
+    "BASIS DATA/Pengenalan BasisData.md",
+    "BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md",
+    "BASIS DATA/ALTER.md",
+    "Untitled 1.md",
+    "aset RESPOSIVE.md",
+    "RESPONSIVE/aset Resposive",
+    "RESPONSIVE",
+    "PHP/Pertemuan pertama.md",
+    "PHP",
+    "EKSPLORASI FILTER.md",
+    "Responsive.md",
+    "contohFilter.md",
+    "BASIS DATA/aset BASIS DATA",
+    "BASIS DATA"
   ]
 }
