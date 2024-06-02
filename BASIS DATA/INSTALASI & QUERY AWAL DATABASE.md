@@ -21,7 +21,7 @@ https://youtu.be/JojQd-l7fEE?si=OPIB01q45A2FmY1x
 ## Query
 ``<mysql -u root -p>``
 ## Hasil
-![[aset1.jpg]]
+![](asetBASISDATA/aset1.jpg)
 
 
 ## Analisis kesimpulan
@@ -39,7 +39,7 @@ Database (basis data) adalah kumpulan terstruktur dari informasi yang disimpan s
 ``create database xi_rpl_1;``
 
 ### Hasil:
-![[aset2.jpg]]
+![](asetBASISDATA/aset2.jpg)
 
 ## Tampilkan data base
 `SHOW DATABASE` digunakan untuk menampilkan daftar database yang ada dalam sistem manejemen basis data (DBMS). Perintah ini dapat digunakan di beberapa DBMS seperti MYSQL, PostgreSQL, dan beberapa DBMS lainnya. Namun, perintahnya dapat sedikit berbeda tergantung
@@ -47,20 +47,20 @@ Database (basis data) adalah kumpulan terstruktur dari informasi yang disimpan s
 ``show databases;``
 
 ### Hasil:
-![[aset3.jpg]]
+![](asetBASISDATA/aset3.jpg)
 ## hapus database
 ``<DROP DATABASE [nama_database]>`` digunakan dalam sistem manajemen basis data (DBMS) untuk menghapus sebuah database beserta semua objek yang terkait dengan database tersebut, seperti tabel, indeks, tampilan, prosedur tersimpan, dan lain-lain.
 ### Query
 ``drop database xi_rpl_1``
 ### Hasil:
-![[aset4.jpg]]
+![](asetBASISDATA/aset4.jpg)
 
 ## gunakan data base
 ``USE [nama_database]`` digunakan dalam sistem manajemen basis data (DBMS) untuk beralih atau memilih database yang akan digunakan. Ketika Anda menggunakan perintah ``<USE>`` diikuti dengan nama database, DBMS akan mengarahkan semua perintah dan operasi selanjutnya pada database yang ditentukan.
 ### Query
 `` use xi_rpl_1; ``
 ### Hasil:
-![[aset5.jpg]]
+![](asetBASISDATA/aset5.jpg)
 
 # tipe data
 ## angka
@@ -92,7 +92,7 @@ Perintah `"CREATE TABLE"` digunakan dalam SQL untuk membuat sebuah tabel baru da
 `create table [nama yang diinginkan]`
 
 ### Hasil
-![400x80](aset6.jpg)
+![](asetBASISDATA/aset6.jpg)
 
 #### Analisis
 1. create table pelanggan adalah kode yang digunakan untuk membuat tabel baru dan pelanggan adalah nama tabel nya
@@ -148,7 +148,7 @@ MariaDB [rental_cica]> insert into PELANGGAN
 ```
 
 ### Hasil
-![[aset8.jpg]]
+![](asetBASISDATA/aset8.jpg)
 
 ###  analisis
 1. `insert into` adalah query yang digunakan untuk menginput isi table
@@ -250,3 +250,13 @@ Drop table [nama_table];
 ## Contoh
 ```mysql
 drop table pelanggan;
+```
+
+# TUGAS 
+TAMPILKAN JUMLAH DATA MOBIL DAN KELOMPOKKAN BESERTA WARNANYA
+
+```MYSQL
+SELECT 'WARNA',COUNT(ID_MOBIL) AS JUMLAH_MOBIL FROM 'DAFTAR'
+```
+
+
