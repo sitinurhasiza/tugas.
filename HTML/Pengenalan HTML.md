@@ -600,7 +600,7 @@ html>
 </html>
 ```
 #### Contoh Tampilan di Browser
-![]asetHTML/contoh2.jpeg)
+![](asetHTML/contoh2.jpeg)
 Analisis:
 Untuk tabel "Nama Hari" dan "Nama Bulan"Merupakan 2 kolom hanya tetapi di tambahkan atribut `colspan`yang akan membuat 2 kolom menjadi 1 dan begitu juga dengan kolom "Juni" yang seharusnya terdapat 2 baris tetapi karena di tambahkan atribut `rowspan`yanv membuat 2 baris menjadi 1
 # DIV & SPAN
@@ -674,7 +674,7 @@ Artinya,  jika kamu ingin membuat kode yang mudah dipahami, tidak hanya oleh ma
 
 saya berikan contoh dari gambar berikut.
 
-![(semantic%20vs%20non%20semantic.jpg)
+![](asetHTML/semantic%20vs%20non%20semantic.jpg)
 
   
 
@@ -778,9 +778,9 @@ Mari kita lihat elemen semantik HTML yang paling **umum**, dibagi menjadi dua ka
 
   
 
-- [Tag semantik HTML untuk struktur](##Tag%20Semantic%20HTML%20untuk%20struktur)
+- [](asetHTML/##Tag%20Semantic%20HTML%20untuk%20struktur)
 
-- [Tag semantik HTML untuk teks](##Tag%20Semantic%20HTML%20untuk%20teks)
+- [](asetHTML/##Tag%20Semantic%20HTML%20untuk%20teks)
 
 ## Tag Semantic HTML untuk Struktur
 
@@ -898,7 +898,7 @@ Selalu urutkan elemen header berdasarkan kepentingannya.
 
 Misalnya, semua judul H3 yang mengikuti judul H2 tertentu harus menjadi subtopik dari H2 tersebut.
 
-![100%](best-praktis-h1.png)
+![](asetHTML/best-praktis-h1.png)
 
 Dengan cara ini, struktur judul menciptakan hierarki logis dari topik dalam konten Anda dan membantu pembaca dan mesin pencari lebih memahami dan menavigasi teks.
 
@@ -912,7 +912,7 @@ Implementasi HTML Anda tidak boleh hanya menjadi duplikat tata letak visual. Se
 
 Mari kita lihat contoh ini:
 
-![100%](best-praktis-layout.png)
+![](asetHTML/best-praktis-layout.png)
 
 Penggunaan tag HTML di sisi kiri salah karena menunjukkan bahwa halaman tersebut berisi empat topik berbeda, bukan satu topik dan tiga subtopik, seperti yang ditunjukkan di sebelah kanan.
 
