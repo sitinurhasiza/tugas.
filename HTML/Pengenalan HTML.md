@@ -13,7 +13,7 @@
 </html>
 ```
 ### Contoh Tampilan di Browser
-![](aset.jpg.jpeg)
+![](asetHTML/aset.jpg.jpeg)
 
 - Tag `<!DOCTYPE html>` memberitahukan web browser bahwa dokumen HTML adalah versi 5.
 - Tag pembuka `<html>` menandai awal sebuah dokumen HTML sampai dengan tag penutup `</html>`.
@@ -87,7 +87,7 @@ Isi atau konten tag merujuk pada teks, elemen, atau informasi yang ditempatkan d
 </html>
 ```
 ### Contoh Tampilan di Browser 
-![[aset3.jpeg]]
+![](asetHTML/aset3.jpeg)
 - Tag `<p>`digunakan untuk menandai paragraf pada halaman web dan di akhiri `</p>`. Ini memberikan jarak antara paragraf.
 - Tag `<b>` digunakan untuk membuat teks menjadi tebal (bold) dan di akhiri `</b>`.
 - Tag `<u>` digunakan untuk memberi garis bawah pada teks dan di akhiri `</u>`. 
@@ -117,7 +117,7 @@ HTML juga mempunyai tag khusus untuk komentar. Untuk membuat komentar diHTML kit
 ```
 
 ### Contoh Tampilan di Browser 
-![](aset4.jpeg)
+![](asetHTML/aset4.jpeg)
 
 ## List
 List adalah fungsi dalam HTML yang digunakan untuk menampilkan daftar dari sesuatu. Dalam HTML,Tag list terdiri dari 2 jenis`<ol>` ordered list (berurutan) dan `<ul>`unorderend list (tidak berurutan).Ordered list akan ditampilkan dengan angka atau huruf, sedangkan unordered list dengan bulatan atau kotak ataupun simbol lainnya
@@ -147,8 +147,8 @@ List adalah fungsi dalam HTML yang digunakan untuk menampilkan daftar dari sesua
 </ol>
 ```
 ### Contoh Tampilan di Browser
-![](HTML/foto5.jpeg)
-![](absen.jpg.jpeg)
+![](asetHTML/foto5.jpeg)
+![](asetHTML/absen.jpg.jpeg)
 
 ## Link
 Link dapat ditemukan di hampir semua halaman web. Link/Tautan memungkinkan sebuah teks yang ketika di-klik akan pindah ke halaman lainnya. HTML menggunakan tag `<a>` untuk keperluan ini. Link ditulis dengan `<a>` yang merupakan singkatan cari anchor
@@ -167,7 +167,7 @@ target="_blank">klik disini untuk kegoogle</a><br>
 
 ```
 ### Contoh Tampilan Di Browser
-![[foto6.jpeg]]
+![](asetHTML/foto6.jpeg)
 
 ## Multimedia
 ### Gambar
@@ -185,7 +185,7 @@ Dalam tag `img`terdapat juga atribut `width`dan `height`untuk mengatur ukuran ga
    <img src="paskibra1.jpg" alt="paskibra1.jpg" width="300" height="170">
 ```
 #### Contoh Tampilan di Browser
-![](foto15.jpeg)
+![](asetHTML/foto15.jpeg)
 
 Gambar diatas adalah contoh tampilan di web browser
 ![[paskibra207.jpeg]]
@@ -199,10 +199,10 @@ Fitur HTML 5 mencakup dukungan audio dan video asli tanpa memerlukan Flash. Tag 
 ```
 
 #### Contoh Tempat File:
-![[vidio.jpeg]]
+![](asetHTML/vidio.jpeg)
 Gambar diatas adalah contoh tempat file video tersebut disimpan.Tempat penyimpanan nya berada di file `Folder HTML`
 #### Contoh Tampilan di Browser
-![](foto13.jpeg)
+![](asetHTML/foto13.jpeg)
 Gambar diatas adalah contoh tampilan di Browser.
 
 ### Audio
@@ -214,9 +214,9 @@ Setiap yang telah dibahas sebelumnya bahwasanya tag `<audio>` merupakan bagian f
 
 #### Contoh tampilan di browser:
 
-![[foto12.jpeg]]
+![](astHTML/foto12.jpeg)
 Gambar diatas adalah contoh tampilan di Browser.
-![[audio.jpeg]]
+![](astHTML/audio.jpeg)
 Gambar diatas adalah contoh tempat file audio tersebut disimpan.Tempat penyimpanan nya berada di file `Folder HTML`
 ### Iframe
 Elemen `<iframe>` dapat digunakan untuk menampilkan halaman website lain dalam suatu website. Atau menampilkan dokumen HTML lain dalam sebuah website. Mudahnya, bisa dibilang website dalam website.
@@ -234,7 +234,7 @@ Dalam tag `iframe` ada beberapa atribut yang penting seperti:
 ```
 
 #### Contoh Tampilan di Browser:
-![](foto7.jpeg)
+![](asetHTML/foto7.jpeg)
 
 
 ## Tabel
@@ -288,7 +288,7 @@ Tabel dalam HTML didefinisikan dengan tag `<table>`.
 >Perhatikan bahwa pada tag `<table>` terdapat sebuah atribut border. Atribut border digunakan untuk memberikan nilai garis tepi dari tabel. Nilai ini dalam ukuran pixel. border=”1”, berarti kita mengistruksikan kepada web browser bahwa tabel tersebut akan memiliki garis tepi sebesar 1 pixel. Jika tidak ditambahkan, secara default tabel tidak memiliki garis tepi
 
 ### Contoh Tampilan di Browser:
-![[foto8.jpeg]]
+![](asetHTML/foto8.jpeg)
 
 ### Contoh Program
 ```html
@@ -329,7 +329,7 @@ tabel yang penting untuk diketahui yaitu:
 - `height`  berfungsi untuk mengatur *tinggi* tabel yang nilainya didefinisikan dalam satuan pixel secara default.
 - `align` berfungsi untuk mengatur *perataan teks* pada tabel. Nilai atribut yang dapat diberikan yaitu `left` untuk perataan teks ke kiri, `right` untuk perataan teks ke kanan, dan `center` untuk perataan teks ke tengah.
 ### Contoh Tampilan Di Browser:
-![[foto9.jpeg]]
+![](asetHTML/foto9.jpeg)
 
 >[!faq]- Perhatikan pada konten elemen `**<td>**` yang berisi **Muhammad Alif H**, hanya terdapat satu elemen `<td>` disana. Hal ini dikarenakan konten elemen `<td>` sebelumnya yaitu SMKN 3 Makassar dan - pada data Nurfadillah mengandung atribut rowspan dengan nilai 2 yang secara otomatis mengisi data di bawahnya yakni data **Siti Nur Hasiza.A** Nilai 2 menunjukkan bahwa ada dua baris yang digabungkan menjadi satu
 
@@ -364,7 +364,7 @@ tabel yang penting untuk diketahui yaitu:
 </html
 ```
 #### Contoh Tampilan di Browser
-![[foto28.jpeg]]
+![](asetHTML/foto28.jpeg)
 Analisis:
 Untuk tabel "Nama Hari" dan "Nama Bulan"Merupakan 2 kolom hanya tetapi di tambahkan atribut `colspan`yang akan membuat 2 kolom menjadi 1 dan begitu juga dengan kolom "Juni" yang seharusnya terdapat 2 baris tetapi karena di tambahkan atribut `rowspan`yanv membuat 2 baris menjadi 1
 
@@ -524,7 +524,7 @@ Elemen ``<button>`` yang berada di dalam sebuah form akan otomatis dianggap sama
 ```
 
 #### Contoh Tampilan di Browser
-![[foto10.jpeg]]
+![](asetHTML/foto10.jpeg)
 
  Beberapa atribut yang digunakan pada contoh di atas yang perlu untuk diperjelas yaitu sebagai berikut:
 - `name`  digunakan sebagai nama variabel yang akan diproses oleh web server (contoh menggunakan PHP)
@@ -600,7 +600,7 @@ html>
 </html>
 ```
 #### Contoh Tampilan di Browser
-![[contoh2.jpeg]]
+![]asetHTML/contoh2.jpeg)
 Analisis:
 Untuk tabel "Nama Hari" dan "Nama Bulan"Merupakan 2 kolom hanya tetapi di tambahkan atribut `colspan`yang akan membuat 2 kolom menjadi 1 dan begitu juga dengan kolom "Juni" yang seharusnya terdapat 2 baris tetapi karena di tambahkan atribut `rowspan`yanv membuat 2 baris menjadi 1
 # DIV & SPAN
@@ -674,7 +674,7 @@ Artinya,  jika kamu ingin membuat kode yang mudah dipahami, tidak hanya oleh ma
 
 saya berikan contoh dari gambar berikut.
 
-![semantic HTML vs non semantic|100%](semantic%20vs%20non%20semantic.jpg)
+![(semantic%20vs%20non%20semantic.jpg)
 
   
 
