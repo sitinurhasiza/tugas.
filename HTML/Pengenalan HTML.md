@@ -117,7 +117,7 @@ HTML juga mempunyai tag khusus untuk komentar. Untuk membuat komentar diHTML kit
 ```
 
 ### Contoh Tampilan di Browser 
-![[aset4.jpeg]]
+![](aset4.jpeg)
 
 ## List
 List adalah fungsi dalam HTML yang digunakan untuk menampilkan daftar dari sesuatu. Dalam HTML,Tag list terdiri dari 2 jenis`<ol>` ordered list (berurutan) dan `<ul>`unorderend list (tidak berurutan).Ordered list akan ditampilkan dengan angka atau huruf, sedangkan unordered list dengan bulatan atau kotak ataupun simbol lainnya
@@ -147,8 +147,8 @@ List adalah fungsi dalam HTML yang digunakan untuk menampilkan daftar dari sesua
 </ol>
 ```
 ### Contoh Tampilan di Browser
-![[foto5.jpeg]]
-![[absen.jpg.jpeg]]
+![](foto5.jpeg)
+![](absen.jpg.jpeg)
 
 ## Link
 Link dapat ditemukan di hampir semua halaman web. Link/Tautan memungkinkan sebuah teks yang ketika di-klik akan pindah ke halaman lainnya. HTML menggunakan tag `<a>` untuk keperluan ini. Link ditulis dengan `<a>` yang merupakan singkatan cari anchor
@@ -185,7 +185,7 @@ Dalam tag `img`terdapat juga atribut `width`dan `height`untuk mengatur ukuran ga
    <img src="paskibra1.jpg" alt="paskibra1.jpg" width="300" height="170">
 ```
 #### Contoh Tampilan di Browser
-![[foto15.jpeg]]
+![](foto15.jpeg)
 
 Gambar diatas adalah contoh tampilan di web browser
 ![[paskibra207.jpeg]]
@@ -202,7 +202,7 @@ Fitur HTML 5 mencakup dukungan audio dan video asli tanpa memerlukan Flash. Tag 
 ![[vidio.jpeg]]
 Gambar diatas adalah contoh tempat file video tersebut disimpan.Tempat penyimpanan nya berada di file `Folder HTML`
 #### Contoh Tampilan di Browser
-![[foto13.jpeg]]
+![](foto13.jpeg)
 Gambar diatas adalah contoh tampilan di Browser.
 
 ### Audio
@@ -234,7 +234,7 @@ Dalam tag `iframe` ada beberapa atribut yang penting seperti:
 ```
 
 #### Contoh Tampilan di Browser:
-![[foto7.jpeg]]
+![](foto7.jpeg)
 
 
 ## Tabel
