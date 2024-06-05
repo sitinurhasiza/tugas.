@@ -147,7 +147,7 @@ List adalah fungsi dalam HTML yang digunakan untuk menampilkan daftar dari sesua
 </ol>
 ```
 ### Contoh Tampilan di Browser
-![](foto5.jpeg)
+![](HTML/foto5.jpeg)
 ![](absen.jpg.jpeg)
 
 ## Link
