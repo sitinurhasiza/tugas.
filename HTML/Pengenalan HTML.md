@@ -13,7 +13,7 @@
 </html>
 ```
 ### Contoh Tampilan di Browser
-![[aset.jpg.jpeg]]
+![](aset.jpg.jpeg)
 
 - Tag `<!DOCTYPE html>` memberitahukan web browser bahwa dokumen HTML adalah versi 5.
 - Tag pembuka `<html>` menandai awal sebuah dokumen HTML sampai dengan tag penutup `</html>`.
@@ -25,7 +25,7 @@
 <a href="https://www.instagram.com">Klik Instagram!</a
 ```
 ### Contoh Tampilan di Browser
-![[aset1.jpeg]]
+![](asetHTML/aset1.jpeg)
 - Tag pembuka `<a>` tag yang menandakan awalan dan `</a>` akhir URL/link.
 -  atribut `href` digunakan untuk menentukan halaman web URL/link. Contoh nilai atribut https://www.Instagram.com.
 - isi konten itu untuk masuk ke URL/link yang sudah kita buat di atribut `href` yaitu "klik Instagram"
@@ -59,7 +59,7 @@ Isi atau konten tag merujuk pada teks, elemen, atau informasi yang ditempatkan d
 </html>
 ```
 ### Contoh Tampilan di Browser 
-![[aset2.jpeg]]
+![](asetHTML/aset2.jpeg)
 - Tag `<h1>` Digunakan untuk judul utama atau level judul tertinggi
 - Tag `<h2>` Menunjukkan tingkatan judul yang lebih rendah dari `<h1>` atau subjudul
 - Tag `<h3>` Menunjukkan tingkatan judul yang lebih rendah atau subjudul dari `<h2>`
