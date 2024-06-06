@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "b49de39ea95d25bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6072307a7f77cc27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "004b1b5742f2e08a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REMED CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3834f84ee1d507cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e556d680832aae9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee41b3c2c9870334",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27027d1b6c44addd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7b5cac4ed70513a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a846a83aed86896c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d41b82c91b585525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1940b854579f3e47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "REMED CSS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef96d7502d04b506",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "REMED CSS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08fa5bc3dea77fb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b9a810aba945a76a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "REMED CSS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ee41b3c2c9870334",
+  "lastOpenFiles": [
+    "PRAKTIKUM 7/Praktikum PHP.md",
+    "PRAKTIKUM 7/asets/Penggabungan_order_Costumers.png",
+    "PRAKTIKUM 7/asets/Orders.png",
+    "PRAKTIKUM 7/asets/Customers.png",
+    "PRAKTIKUM 7/asets",
+    "PRAKTIKUM 7/aset/mada9.png",
+    "PRAKTIKUM 7/aset/mada8.png",
+    "PRAKTIKUM 7/aset/mada7.png",
+    "PRAKTIKUM 7/aset/mada6.png",
+    "PRAKTIKUM 7/aset",
+    "PRAKTIKUM 7/aseets/4P.png",
+    "PRAKTIKUM 7/aseets/3P.png",
+    "PRAKTIKUM 7/aseets/2P.png",
+    "PRAKTIKUM 7/aseets",
+    "PRAKTIKUM 7/Asett",
+    "PRAKTIKUM 7/aset/asets",
+    "PRAKTIKUM 7/aset/aset",
+    "PRAKTIKUM 7/aset/aseets",
+    "PRAKTIKUM 7/aset/Asett",
+    "PHP/PHP MYSQL.md",
+    "PRAKTIKUM 7",
+    "PRAKTIKUM 7.zip",
+    "BASIS DATA/ALTER.md",
+    "REMED BASIS DATA/REMED BASISDATA.md",
+    "Untitled.md",
+    "REMED BASIS DATA/asetremed.md",
+    "HTML/Pengenalan HTML.md",
+    "HTML/DESKRIPSI.md",
+    "HTML/ANALISIS PROYEK UJIAN.md",
+    "REMED CSS.md",
+    "FILTER.md",
+    "EKSPLORASI FILTER.md",
+    "BASIS DATA/SELECT LANJUTAN.md",
+    "BASIS DATA/Pengenalan BasisData.md",
+    "BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md",
+    "PHP/Pengenalan PHP.md",
+    "RESPONSIVE/CSS Responsive.md",
+    "HTML/PERTEMUAN 1.md",
+    "HTML/Pengenalan Web.md",
+    "GITHUB & GIT/GITHUB & GIT.md",
+    "CSS/Pengenalan CSS.md",
+    "CSS/Boostrap.md"
+  ]
+}
